@@ -18,7 +18,7 @@ body{
   }
   .chat-header{
     background-color:blue;
-    color:white;
+    color:#fff;
     padding:0.5em;
   }
   
@@ -52,7 +52,7 @@ body{
   .right-message{
     margin:0.5em;
     background-color:black;
-    color:white;
+    color:#fff;
     padding:1em;
     border-radius:5em;
     box-shadow:1px 1px 1px 1px rgba(0,0,0,0.5);
